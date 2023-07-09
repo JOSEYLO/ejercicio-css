@@ -1,0 +1,26 @@
+/* :root {
+  --color-text: blue;
+  --spacing-text: 2em;
+
+}
+
+p {
+  color: var(--color-text);
+  padding: var(--spacing-text);
+
+} */
+
+
+.parent {
+  background-color: chartreuse;
+  color: cadetblue;
+}
+
+.primer {
+  background-color: aquamarine;
+
+}
+
+.hijo {
+  background:  green;
+}

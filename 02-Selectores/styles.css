@@ -1,0 +1,43 @@
+#hello {
+  color: coral;
+  width: 30px;
+  font-size: 50px;
+}
+
+.other {
+  color: yellowgreen;
+  font-size: 25px;
+
+}
+
+.divider {
+  background-color: cornflowerblue;
+
+}
+
+.divider-red, .divider-coral {
+  color: coral;
+}
+
+footer p{
+color: brown;
+}
+
+div > h2 {
+  color: blue;
+}
+
+.container > h2 {
+  color: lawngreen;
+}
+
+li:first-child {
+  color: plum;
+}
+li:last-child {
+  color: blueviolet;
+}
+
+a[href="Hola.com"]{
+  color: pink;
+}

@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  color: white;
+
+}
+
+.flex-container-shrink {
+  display: flex;
+  gap: 10px;
+
+}
+
+.shrink-1 {
+  flex-shrink: 0;
+
+}
+
+.shrink-2 {
+  flex-shrink: 1;
+}
+
+.shrink-3 {
+  flex-shrink: 2;
+}
+
